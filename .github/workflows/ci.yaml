@@ -11,7 +11,7 @@ on:
       - release-v**
 
 env:
-  SERVICE: simple-go-1
+  SERVICE: sample-go-1
 
 jobs:
   prepare:
